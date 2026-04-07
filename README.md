@@ -34,8 +34,3 @@ By default, these routes are available only in `local` environment. You can chan
 
 ---
 
-<p>
-  <a href="https://savelife.in.ua/en/donate-en/" target="_blank">
-    <img src="./.github/gh-promo.svg?v=1" alt="Donate"/>
-  </a>
-</p> 
